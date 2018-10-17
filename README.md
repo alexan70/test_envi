@@ -1,2 +1,2 @@
 # test_envi
-For test
+For tests
